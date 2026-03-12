@@ -1,16 +1,55 @@
-# Abdul-Aziz
+# Hey, I'm Mohammed Abdul Aziz 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justme__aziz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammed-abdul-aziz-9b21z24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulaziz018374@gmail.com) 
+> *"Craving knowledge, building real things."*
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aziz-coder-cell&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aziz-coder-cell&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-coder-cell&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+B.Tech CSE (AI & ML) | 3rd Year | Sphoorthy Engineering College  
+Interested in AI/ML since childhood — now turning that passion into real projects.
+
+Off the screen: Gym 🏋️ | MMA 🥊 | Personality Development 📚
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aziz-coder-cell&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Building
+- **VDA (Virtual Data Assistant)** — A voice-controlled AI assistant with MySQL task management and local AI integration
+- **YouTube Doubt AI Platform** — Ask questions about any YouTube video using AI and transcript context
+
+---
+
+## 🛠️ Skills & Tools
+
+**AI/ML**
+`Scikit-learn` `PyTorch` `NLP` `HuggingFace` `NumPy` `Pandas` `Matplotlib`
+
+**Backend & Deployment**
+`Python` `FastAPI` `Docker` `Streamlit` `MySQL`
+
+**Other**
+`Git` `Linux` `Jupyter` `Google Colab`
+
+---
+
+## 📂 Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| [VDA](https://github.com/Aziz-coder-cell) | Voice-controlled AI assistant | Python, MySQL, SpeechRecognition |
+| [AI Flashcard Creator](https://github.com/Aziz-coder-cell) | Generates quiz flashcards from PDFs | Transformers, NLTK, Streamlit |
+| [Car Price Prediction](https://github.com/Aziz-coder-cell/car-price-prediction--second-hand-) | ML model for used car price prediction | Python, Sklearn |
+
+---
+
+## 📜 Certifications
+- 🏅 ML Internship — Future Interns (2026)
+- ☁️ Prompt Design in Vertex AI — Google Cloud
+- ☁️ Building AI Apps with Gemini & Imagen — Google Cloud
+- ☁️ Advanced Cloud & AI Workflows — Google Cloud
+
+---
+
+## 📊 GitHub Stats
+![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aziz-coder-cell&show_icons=true&theme=tokyonight)
+
+---
+
+## 📬 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-abdul-aziz-)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:abdulaziz018374@gmail.com)
