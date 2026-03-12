@@ -3,7 +3,7 @@
 > *"Craving knowledge, building real things."*
 
 B.Tech CSE (AI & ML) | 3rd Year | Sphoorthy Engineering College  
-Interested in AI/ML since childhood — now turning that passion into real projects.
+Started with a curiosity for how machines think — now building AI systems that actually do.
 
 Off the screen: Gym 🏋️ | MMA 🥊 | Personality Development 📚
 
